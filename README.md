@@ -87,7 +87,7 @@ network:
   ethernets:
     enp0s3:
       dhcp4: no
-      addresses: [10.2.2.50/24]
+      addresses: [10.X.X.50/24]
       routes:
         - to: 0.0.0.0/0
           via: 192.X.X.XX
