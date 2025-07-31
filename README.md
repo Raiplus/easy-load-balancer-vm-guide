@@ -129,6 +129,20 @@ Example HTML content (/var/www/html/index.html):
 
 
 ---
+## 📌 Future Plans
+
+- Add Node.js backend
+
+- Host database containers or services
+
+- Dockerize setup
+
+- Shift to real hardware + cloud hybrid
+
+- Use Let's Encrypt for SSL
+
+- Add monitoring with Prometheus/Grafana
+---
 ## 👨‍💻 Author
 Made with ❤️ by [Rishabh Aka Raiplus]
 
