@@ -22,8 +22,10 @@ Ideal for beginners, students, and home lab learners.
 
 ---
 
-##🌍 Live Page:
+## 🌍 Live Page:
 Visit thsi page to see full articture and for future updates
+
+view pdf [https://github.com/Raiplus/easy-load-balancer-vm-guide/blob/main/Load-Balanced-Web-Server-Ubuntu-HAProxy-Nginx-VM-Guide.pdf]
 
 
 ---
